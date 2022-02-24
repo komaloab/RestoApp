@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "wf abc",
+      "email": "ko@gmail.com",
+      "mobile": "9874563210",
+      "address": "bnbotr brb br ou",
+      "services": "demo"
+    },
+    {
+      "id": 3,
+      "name": "Test",
+      "email": "testgmail.com",
+      "mobile": "9874563210",
+      "address": "Test lane",
+      "services": "demo"
+    },
+    {
+      "id": 4,
+      "name": "Abc",
+      "email": "abc@gmail.com",
+      "mobile": "7896541230",
+      "address": "Pune",
+      "services": "Fast Food"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Komal",
+      "email": "komalchaudhari07@gmail.com",
+      "mobile": "9874563210",
+      "password": "komal",
+      "id": 1
+    },
+    {
+      "name": "komal",
+      "email": "komalchaudhari07@gmail.com",
+      "mobile": "9874563210",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
